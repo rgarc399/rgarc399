@@ -5,32 +5,36 @@
 
 Here are some ideas to get you started:
 
-Rene Garcia
 Hi there 👋
-I'm Rene, a passionate software developer who enjoys working with Java and Python. I love creating new things and solving complex problems using code.
+I'm a [Your Profession] who enjoys working with [Programming Languages/Frameworks]. 
+I love creating new things and solving complex problems using code.
 
 Skills
-Java
-Python
-Git
-Object-Oriented Programming
-Test-Driven Development
-Agile Development
+[Skill 1]
+[Skill 2]
+[Skill 3]
+[Skill 4]
+[Skill 5]
+
 Recent Projects
-Project 1: [Project name]
+[Project Name 1]
 Description: [Brief description of the project]
 Tech stack: [List of technologies used]
 Link: [Link to the project]
-Project 2: [Project name]
+
+[Project Name 2]
 Description: [Brief description of the project]
 Tech stack: [List of technologies used]
 Link: [Link to the project]
-Project 3: [Project name]
+
+[Project Name 3]
 Description: [Brief description of the project]
 Tech stack: [List of technologies used]
 Link: [Link to the project]
+
 Education
 [Degree], [Major], [University], [Graduation year]
 Contact Me
+
 LinkedIn: [Your LinkedIn profile URL]
 Email: [Your email address]
