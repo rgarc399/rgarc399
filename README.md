@@ -42,7 +42,7 @@ Hi I'm Rene Garcia a current recent graduate with a Bachelor's degree in Compute
 #
 
 
- <summary><h3>👨‍💻 Rene's Coding Journey</h3></summary>
+ ### 👨‍💻 Rene's Coding Journey
    My coding journey began in high school where I  discovered my passion for technology and the endless possibilities that coding offered.  I Starting with basic languages like HTML and CSS, and quickly progressed to learning more complex languages like Python and Java. I am fascinated by the idea of building something from scratch and the sense of accomplishment that came with each successfully completed project. As I continued to learn and grow in my coding skills, I found that it was not just about codeing itself, but the connections and interactions with people that made the journey more fulfilling. I began attending hackathons and tech events where I met other like-minded individuals who shared my passion for technology. My ultimate goal in tech is to continue to learn and grow, while making meaningful contributions to the industry. I am excited about the possibilities that lie ahead and look forward to seeing where my coding journey will take you next.
 
 [website]: https://www.renegarc.com/
