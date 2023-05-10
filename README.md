@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer/Researcher/Gamer)`**
 
-Hi I'm Rene Garcia a current recent graduate with a Bachelor's degree in Computer Science. Throughout my undergraduate studies, I  was involved in research projects and gained experience in IT. My passion for technology began at a young age, and has helped me developed a deep understanding of programming languages and software development. I am a  driven individual with a strong work ethic, and he is eager to apply his skills and knowledge to contribute to the tech industry.
+Hi, I'm Rene Garcia, a recent graduate with a Bachelor's degree in Computer Science. Throughout my undergraduate studies, I was involved in various research projects and gained significant experience in IT. My passion for technology began at a young age, and has helped me develop a deep understanding of programming languages and software development. I am a driven individual with a strong work ethic, and I am eager to apply my skills and knowledge to contribute to the tech industry.
 
    <p align="left">
       
